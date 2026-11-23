@@ -27,7 +27,9 @@ Ogni cerchio è un paese (con la sua bandiera), ogni linea luminosa un confine v
 Le denominazioni e i confini non implicano alcuna presa di posizione sullo status giuridico
 di paesi o territori. Le posizioni sono schematiche e non in scala.
 
-Progetto realizzato con l'assistenza di Claude (Anthropic).
+Progetto di Giovanni Pigozzo. Testi e codice realizzati con l'assistenza dell'intelligenza artificiale (Claude, Anthropic), rivisti da Giovanni Pigozzo, che ne è responsabile.
+
+Privacy: nessun cookie e nessun tracciamento, vedi https://confinidelmondo.it/privacy/
 
 ## Licenza
 
